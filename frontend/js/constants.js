@@ -1,7 +1,7 @@
 const contractAddress = "0x200b26AA7d3A9fD112183F26652F6377c15cc9A3"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Wonder Sheep NFT Project!!";
+const welcome_h1 = "Welcome to the Wonder Sheep NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Wonder Sheep is a collection of 500 unique Sheep NFTs— unique digital collectibles living on the Polygon blockchain.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
