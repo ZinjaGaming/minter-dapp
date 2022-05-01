@@ -1,5 +1,5 @@
 const contractAddress = "0x200b26AA7d3A9fD112183F26652F6377c15cc9A3"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Wonder Sheep NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
